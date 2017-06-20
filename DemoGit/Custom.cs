@@ -8,5 +8,9 @@ namespace DemoGit
 {
     class Custom
     {
+        public Custom()
+        {
+                
+        }
     }
 }
